@@ -1,0 +1,2 @@
+# folder. This is where all the dependencies are stored. You can delete this folder and run `npm install` to reinstall all the dependencies.
+/node_modules
